@@ -1,0 +1,29 @@
+	main {
+			max-width: 0px;
+			margin: 0 auto;
+		}
+		.feedback {
+			height: 0px;
+			font-family: Arial, "sans-serif";
+		}
+		.highlight {
+			fill: #0a9ecc;
+		}
+		.abcjs-cursor {
+			stroke: red;
+		}
+		.audio-error {
+			color: red;
+			border: 2px solid red;
+			padding: 10px;
+		}
+		.click-explanation {
+			color: red;
+			font-style: italic;
+		}
+		.beat {
+			font-weight: bold;
+		}
+		.label {
+			color: #888888;
+		}
